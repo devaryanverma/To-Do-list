@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-GoalInput",
+      "appliesTo": "Component/GoalInput.js",
+      "type": "launch"
+    }
+  ]
+}
